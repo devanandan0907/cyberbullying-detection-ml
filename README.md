@@ -1,2 +1,21 @@
-# cyberbullying-detection-ml
-Built an ML model to detect cyberbullying in social media text using NLP preprocessing and classification algorithms like SVM, Naïve Bayes, and Random Forest. Focused on online safety and text-based sentiment classification.
+# Cyberbullying Detection using ML
+
+This project detects and classifies cyberbullying in text using Machine Learning algorithms.
+
+## Technologies Used
+- Python
+- Scikit-learn
+- Pandas
+- Numpy
+- Matplotlib
+
+## Models Used
+- SVM
+- Random Forest
+- Naïve Bayes
+
+## Dataset
+Text data collected from social platforms (simulated)
+
+## Status
+Completed and tested
